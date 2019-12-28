@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ajie Resto</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="masuk" />
+    <string name="sudah_memiliki_akun">Sudah Memiliki Akun ?</string>
+    <string name="login_name">Login</string>
+    <string name="login">Login</string>
+    <string name="belum">Belum</string>
+    <string name="register">Register</string>
+</resources>
